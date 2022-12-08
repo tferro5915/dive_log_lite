@@ -1,0 +1,6 @@
+﻿CREATE TABLE [Units] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Category] VARCHAR (255),
+  [Unit] VARCHAR (255),
+  [Preferred] BIT 
+)

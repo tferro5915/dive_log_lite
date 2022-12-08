@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "PeopleVerification",
+    "Attributes": 16777218,
+    "Table": "People",
+    "ForeignTable": "Verification",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Person_ID"
+      }
+    ]
+  }
+}

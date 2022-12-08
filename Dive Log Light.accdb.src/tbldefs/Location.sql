@@ -1,0 +1,10 @@
+﻿CREATE TABLE [Location] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Label] VARCHAR (255),
+  [Country] VARCHAR (255),
+  [Shop] VARCHAR (255),
+  [Site] VARCHAR (255),
+  [Lat] VARCHAR (255),
+  [Long] VARCHAR (255),
+  [Image] VARCHAR 
+)

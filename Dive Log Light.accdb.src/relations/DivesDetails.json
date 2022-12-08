@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "DivesDetails",
+    "Attributes": 16777218,
+    "Table": "Dives",
+    "ForeignTable": "Details",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Dive_ID"
+      }
+    ]
+  }
+}

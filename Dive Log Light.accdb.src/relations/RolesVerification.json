@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "RolesVerification",
+    "Attributes": 33554434,
+    "Table": "Roles",
+    "ForeignTable": "Verification",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Role_ID"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "Equipment_TypeEquipment",
+    "Attributes": 33558784,
+    "Table": "Equipment_Type",
+    "ForeignTable": "Equipment",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Type_ID"
+      }
+    ]
+  }
+}

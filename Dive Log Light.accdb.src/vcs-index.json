@@ -1,0 +1,329 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "12/7/2022 6:55:39 PM",
+    "FullExportDate": "12/7/2022 6:55:39 PM",
+    "OptionsHash": "235c8da",
+    "LastMergedCommit": "",
+    "Components": {
+      "Forms": {
+        "Advanced_sub.bas": {
+          "Hash": "6a5a763",
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "5993a3c"
+        },
+        "Basic_sub.bas": {
+          "Hash": "85b4e74",
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "f686c07"
+        },
+        "Certification.bas": {
+          "ExportDate": "12/7/2022 6:55:37 PM",
+          "SourceModified": "12/7/2022 6:55:37 PM",
+          "FilePropertiesHash": "d374669"
+        },
+        "Conditions_sub.bas": {
+          "Hash": "334f16f",
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "12a51e0"
+        },
+        "Conversion.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "0727e07"
+        },
+        "Details_sub.bas": {
+          "ExportDate": "12/7/2022 6:55:37 PM",
+          "SourceModified": "12/7/2022 6:55:37 PM",
+          "FilePropertiesHash": "1dc088a"
+        },
+        "Dives.bas": {
+          "ExportDate": "12/7/2022 6:55:37 PM",
+          "SourceModified": "12/7/2022 6:55:37 PM",
+          "FilePropertiesHash": "4e4c066"
+        },
+        "Equipment.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "8ad3400"
+        },
+        "Equipment_Spec_Sub.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "a4f0dae"
+        },
+        "Equipment_Type.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "36ee053"
+        },
+        "Equipment_Used_Sub.bas": {
+          "ExportDate": "12/7/2022 6:55:37 PM",
+          "SourceModified": "12/7/2022 6:55:37 PM",
+          "FilePropertiesHash": "5f6d924"
+        },
+        "Location.bas": {
+          "ExportDate": "12/7/2022 6:55:37 PM",
+          "SourceModified": "12/7/2022 6:55:37 PM",
+          "FilePropertiesHash": "bd8ca97"
+        },
+        "Meta.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "abe6b71"
+        },
+        "Navigation.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "cf0c694"
+        },
+        "People.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "e4adcad"
+        },
+        "Units.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "ee3b328"
+        },
+        "Verification_Sub.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "799996f"
+        },
+        "Weather_sub.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "6ad2bce"
+        }
+      },
+      "Modules": {
+        "Helpers.bas": {
+          "Hash": "ad6ffaa",
+          "ExportDate": "12/7/2022 6:55:39 PM",
+          "SourceModified": "12/7/2022 6:55:39 PM",
+          "FilePropertiesHash": "1010c9d"
+        }
+      },
+      "Project": {
+        "project.json": {
+          "Hash": "19c3478",
+          "ExportDate": "12/7/2022 6:55:32 PM",
+          "SourceModified": "12/7/2022 6:55:32 PM",
+          "FilePropertiesHash": "5ab765b"
+        }
+      },
+      "Queries": {
+        "Get_Dives.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "ca99ccb"
+        },
+        "Get_Earlier_Dives_Out.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "6f10803"
+        },
+        "Get_Equipment.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "0283a4a"
+        },
+        "Get_Equipment_Used.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "cdd4091"
+        },
+        "Get_Later_Dives_In.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "6f10803"
+        },
+        "Get_SI.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "e57256c"
+        },
+        "Get_Units_Distance.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "5961065"
+        },
+        "Get_Units_Pressure.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "5961065"
+        },
+        "Get_Units_Temperature.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "b5fa9bd"
+        },
+        "Get_Units_Volume.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "5cb1b68"
+        },
+        "Get_Units_Weight.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "5cb1b68"
+        },
+        "Get_Verification.bas": {
+          "ExportDate": "12/7/2022 6:55:36 PM",
+          "SourceModified": "12/7/2022 6:55:36 PM",
+          "FilePropertiesHash": "a4ddc5e"
+        }
+      },
+      "Reports": {
+        "Dives.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "fe80d93"
+        },
+        "Equipment.bas": {
+          "ExportDate": "12/7/2022 6:55:39 PM",
+          "SourceModified": "12/7/2022 6:55:39 PM",
+          "FilePropertiesHash": "7775329"
+        },
+        "Equipment_Sub.bas": {
+          "ExportDate": "12/7/2022 6:55:39 PM",
+          "SourceModified": "12/7/2022 6:55:39 PM",
+          "FilePropertiesHash": "6ffd06a"
+        },
+        "Meta.bas": {
+          "ExportDate": "12/7/2022 6:55:38 PM",
+          "SourceModified": "12/7/2022 6:55:38 PM",
+          "FilePropertiesHash": "0660120"
+        },
+        "People.bas": {
+          "ExportDate": "12/7/2022 6:55:39 PM",
+          "SourceModified": "12/7/2022 6:55:39 PM",
+          "FilePropertiesHash": "ae101dc"
+        },
+        "Verification_Sub.bas": {
+          "ExportDate": "12/7/2022 6:55:39 PM",
+          "SourceModified": "12/7/2022 6:55:39 PM",
+          "FilePropertiesHash": "c53d2ac"
+        }
+      },
+      "Tables": {
+        "Advanced.xml": {
+          "ExportDate": "12/7/2022 6:55:33 PM",
+          "SourceModified": "12/7/2022 6:55:33 PM",
+          "FilePropertiesHash": "0031949"
+        },
+        "Basic.xml": {
+          "ExportDate": "12/7/2022 6:55:33 PM",
+          "SourceModified": "12/7/2022 6:55:33 PM",
+          "FilePropertiesHash": "44f3d5a"
+        },
+        "Certification.xml": {
+          "ExportDate": "12/7/2022 6:55:33 PM",
+          "SourceModified": "12/7/2022 6:55:33 PM",
+          "FilePropertiesHash": "53a0d23"
+        },
+        "Conditions.xml": {
+          "ExportDate": "12/7/2022 6:55:33 PM",
+          "SourceModified": "12/7/2022 6:55:33 PM",
+          "FilePropertiesHash": "304df31"
+        },
+        "Conversion.xml": {
+          "ExportDate": "12/7/2022 6:55:33 PM",
+          "SourceModified": "12/7/2022 6:55:33 PM",
+          "FilePropertiesHash": "d419ea0"
+        },
+        "Details.xml": {
+          "ExportDate": "12/7/2022 6:55:34 PM",
+          "SourceModified": "12/7/2022 6:55:34 PM",
+          "FilePropertiesHash": "5dd4919"
+        },
+        "Dives.xml": {
+          "ExportDate": "12/7/2022 6:55:34 PM",
+          "SourceModified": "12/7/2022 6:55:34 PM",
+          "FilePropertiesHash": "6efdcd2"
+        },
+        "Equipment.xml": {
+          "ExportDate": "12/7/2022 6:55:34 PM",
+          "SourceModified": "12/7/2022 6:55:34 PM",
+          "FilePropertiesHash": "8a10b1b"
+        },
+        "Equipment_Spec.xml": {
+          "ExportDate": "12/7/2022 6:55:34 PM",
+          "SourceModified": "12/7/2022 6:55:34 PM",
+          "FilePropertiesHash": "e2616ef"
+        },
+        "Equipment_Type.xml": {
+          "ExportDate": "12/7/2022 6:55:34 PM",
+          "SourceModified": "12/7/2022 6:55:34 PM",
+          "FilePropertiesHash": "d06d21a"
+        },
+        "Equipment_Used.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "ac5cd23"
+        },
+        "Location.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "e61c73b"
+        },
+        "Meta.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "b5b3415"
+        },
+        "People.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "70e97c3"
+        },
+        "Roles.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "2832ae6"
+        },
+        "Units.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "52ee447"
+        },
+        "Verification.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "698db05"
+        },
+        "Weather.xml": {
+          "ExportDate": "12/7/2022 6:55:35 PM",
+          "SourceModified": "12/7/2022 6:55:35 PM",
+          "FilePropertiesHash": "6230a92"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "c47dd62",
+          "ExportDate": "12/7/2022 6:55:32 PM",
+          "SourceModified": "12/7/2022 6:55:32 PM",
+          "FilePropertiesHash": "e49da50"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "Hash": "9521cdc",
+          "ExportDate": "12/7/2022 6:55:32 PM",
+          "SourceModified": "12/7/2022 6:55:32 PM",
+          "FilePropertiesHash": "d7c1cb3"
+        }
+      }
+    }
+  }
+}

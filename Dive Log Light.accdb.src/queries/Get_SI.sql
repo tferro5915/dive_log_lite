@@ -1,0 +1,2 @@
+﻿SELECT Get_Later_Dives_In.ID, Get_Later_Dives_In.Time_In, Get_Earlier_Dives_Out.Time_Out, DateDiff("n",Get_Earlier_Dives_Out.Time_Out,Get_Later_Dives_In.Time_In) AS Surface_Interval, IIf(Surface_Interval>1440,Null,Surface_Interval) AS Surface_Interval_Adjusted, Nz( Surface_Interval_Adjusted,"N/A") AS Surface_Interval_Adjusted2
+FROM Get_Later_Dives_In LEFT JOIN Get_Earlier_Dives_Out ON Get_Later_Dives_In.RowNum = Get_Earlier_Dives_Out.RowNum;

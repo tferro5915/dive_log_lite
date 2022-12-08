@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "CertificationDives",
+    "Attributes": 33554434,
+    "Table": "Certification",
+    "ForeignTable": "Dives",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Certification_ID"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [Verification] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Dive_ID] LONG ,
+  [Role_ID] LONG ,
+  [Person_ID] LONG 
+)
