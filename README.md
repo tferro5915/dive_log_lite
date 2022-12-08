@@ -116,8 +116,8 @@ Lots of features to add someday...
 * Stats report (create): - num dives, num sites, max depth, max bottom time, total underwater time, Certificates (number, date, instructor, org, photo), Map with pins for every location. 
 * Export book: Export all reports to one PDF book 
 * Location image map: If no image supplied but has lat/long then add generic map with pin
-* Dive log Forms: Fix date enter fields. Enter like displayed is ideal. Acess seems to make it only enter data with manual time after format like "09:00am" not accept 24hr. Also show leading 0.
-* Allow user to enter any unit and only report in prefered unit, also convert on the fly when changing unit selection.
+* Dive log Forms: Fix date enter fields. Enter like displayed is ideal. Access seems to make it only enter data with manual time after format like "09:00am" not accept 24hr. Also show leading 0.
+* Allow user to enter any unit and only report in preferred unit, also convert on the fly when changing unit selection.
 
 # 4. History  
-This started as a LibreOffice Base project. It was hopped to keep it in the relm of free software. That turned out to have limitations preventing further use. So it became an MS Access project. This was mostly made before learning about [Subsurface](https://subsurface-divelog.org/). That is probably a better alternative if you want more features. 
+This started as a LibreOffice Base project. It was hopped to keep it in the realm of free software. That turned out to have limitations preventing further use. So it became an MS Access project. This was mostly made before learning about [Subsurface](https://subsurface-divelog.org/). That is probably a better alternative if you want more features. 
